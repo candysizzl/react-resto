@@ -30,7 +30,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 ### `npm run eject`
 
 ### Deployment
-This is the deployed link: 
+This is the deployed link: https://aquamarine-moxie-fbf6ca.netlify.app/
 
 ### `npm run build` fails to minify
 
